@@ -134,7 +134,7 @@ int main() {
     parent.assign(6, INT_MAX);
 
     /*
-     * I'm not verify if the input is correct, so don't be a dumbass.
+     * I'm not verifying if the input is correct, so don't be a dumbass.
      */
     int initialNode, finalNode;
     cout << "Choose the origin Node between 0 and 5: ";
